@@ -1,0 +1,14 @@
+{
+  "name": "srecruitment",
+  "version": "1.0.0",
+  "description": "Solitaire Recruitment Website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Anna Seregi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
